@@ -1,0 +1,4 @@
+NPC Names:
+- X
+- Y
+- Z
