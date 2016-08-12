@@ -1,4 +1,4 @@
 NPC Names:
-- X
-- Y
-- Z
+- Fulano
+- Cicrano
+- Beltrano
